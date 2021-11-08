@@ -34,7 +34,7 @@ To increase the performance of the model, I increased the number of neurons in h
 
 ### Summary 
 
-The optimizing the initial model did not significantly improve its predictive accuracy.
+The optimizing model did not significantly improve its predictive accuracy.
 
-My recommendation is trying to use a supervised machine learning model such as the Random Forest Classifier to combine a multitude of decision trees to generate a classified output and evaluate its performanc.
+My recommendation is trying to use a supervised machine learning model such as the Random Forest Classifier to generate a classified output and evaluate its performance.
 
